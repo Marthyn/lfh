@@ -1,0 +1,2 @@
+
+Dokstraat 61 is mijn adres, vroeger woonde ik op Dokstraat 61A. Ik heb een vriend die woont op Noorderhaven 889 O.Z. en het kan nog vreemder, zoals Spoorstraat t/o 5a of Dokstraat 146A02. Dat zijn allemaal valide nederlandse adressen.
