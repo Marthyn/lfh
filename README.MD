@@ -10,8 +10,3 @@ Dit bestand is gemaakt om te oefenen met de commando's die je net geleerd hebt. 
 5. In beide files het woord VHS vervangen met DVD, let op, alleen VHS (dus niet vhs) en alleen als opzichzelfstaand woord (test VHS wel, testVHS niet)
 6. Schrijf in beide files een nieuwe lijst met ongeveer 100 regels met de volgende tekst: `Dit was de beste training ooit`
 
-# Voel je je te goed voor bovenstaande? (of ben je heel snel klaar)
-
-Er is niet genoeg tijd (bedankt AJAX) om in deze training ook nog REGEX te behandelen, maar het is wel ontzettend interessant en kan heel krachtig zijn. Dus mocht je nog zin hebben (of wil je thuis beter worden);
-
-Schrijf een REGEX waarmee je het huisnummer(met toevoeging) los kan trekken van de straatnaam. Laat die los op file3, er zouden nu 5 huisnummers en 5 straatnamen gematcht moeten worden.
