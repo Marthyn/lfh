@@ -1,7 +1,7 @@
 
 # Lifehacks met text
 
-Dit bestand is gemaakt om te oefenen met de commando's die je net geleerd hebt. In het onderstaande stuk tekst moet je een aantal wijzigingen uitvoeren.
+Dit bestand is gemaakt om te oefenen met de commando's die je net geleerd hebt. In de bestanden in de map moet je een aantal wijzigingen uitvoeren. 
 
 1. In file1 in de eerste lijst moet er na elk streepje de volgende tekens gezet worden: ` [ ]`. Dus elke regel begint dan met `- [ ]`
 2. Vervang in `file1.md` in de eerste lijst elke code met zichzelf verdubbeld. Voorbeeld: `- [ ] XHGS92XHGS92`
